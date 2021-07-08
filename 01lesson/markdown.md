@@ -2,9 +2,6 @@
 
 <img class="fragment" src="../images/Python-logo.png" width="400" height="400">
 
-Note: Welcome to the introductory Python course with Veroskills. My name is Tyler Maxwell, I am a freelance web developer and Python enthusiast. 
-
-This course will require only basic computer literacy i.e. the ability to download files from the internet and basic math and logic skills
 
 
 
