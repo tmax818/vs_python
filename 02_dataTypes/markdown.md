@@ -120,3 +120,6 @@ print("hello world")
 </table>
 
 
+
+
+[Jupyter Notebooks](http://localhost:8888/notebooks/Desktop/intro_python/02_dataTypes.ipynb)

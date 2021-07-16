@@ -48,6 +48,13 @@ int main(void)
 
 
 
-## Up Next...
+[Anaconda.com](https://www.anaconda.com)
 
-Hello, World!
+
+
+[Jupyter Notebook](https://github.com/tmax818/intro_python)
+
+
+
+
+[https://github.com/tmax818/intro_python/archive/refs/heads/main.zip](https://github.com/tmax818/intro_python/archive/refs/heads/main.zip)
