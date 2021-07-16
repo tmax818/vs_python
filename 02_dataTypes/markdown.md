@@ -1,15 +1,6 @@
 # Python Basics
 
-
-
-## Hello, world!
-
-```python
-print("hello world")
-```
-
-
-![string](../images/hbstring.jpg)
+<img class="fragment" src="../images/Python-logo.png" width="400" height="400">
 
 
 
@@ -20,7 +11,7 @@ print("hello world")
 |int| 42|
 |float|3.14|
 |None| None|
-|Bool| True, False|
+|bool| True, False|
 
 
 
@@ -49,11 +40,6 @@ print("hello world")
 <td>Multiplication</td>
 <td>*</td>
 <td>6 * 7</td>
-</tr>
-<tr>
-<td>Exponents</td>
-<td>**</td>
-<td>6 **2</td>
 </tr>
 <tr>
 <td>Division</td>

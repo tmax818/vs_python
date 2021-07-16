@@ -11,12 +11,18 @@
 - cannot be a Python keyword
 
 
-example:
 
 ```python
 message = "Spam"
 ```
 
+
+
+<img src="./variables.jpg" width="500">
+
+
+
+<img src="./locker.jpg" width="400" height="400">
 
 
 

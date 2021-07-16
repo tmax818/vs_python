@@ -19,7 +19,7 @@ or triple("""str""") quotes  <!-- .element: class="fragment fade-in-then-out"  -
 <p class="fragment fade-in">immutable <span class="fragment highlight-red">objects</span></p>
 
 
-
+NOTE:
 ```python
 "the airspeed velocity of an unladen swallow."
 'the airspeed velocity of an unladen swallow.'

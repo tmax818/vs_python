@@ -24,6 +24,8 @@ input("How old are you?")
 <img class="fragment" src="string.jpg" width="600" height="400">
 
 NOTE:
+
+#comments!!!!
 YEARS_UNTIL_COMET = 40
 
 age = input("How old are you? ")
