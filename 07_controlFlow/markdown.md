@@ -18,16 +18,52 @@ the keywords:  <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-```python
 
+<section data-auto-animate>
+<pre data-id="code-animation"><code data-line-numbers="2|3|4">
 condition = True
-
 if condition:
     print("The condition is", condition)
 else:
-    print("The condition is must be false!!!")
-```
-
+    print("Everything else must be false!!!")
+</code></pre>
+</section>
+<section data-auto-animate>
+<pre data-id="code-animation"><code data-line-numbers="2|5|6">
+condition = False
+if condition:
+    print("The condition is", condition)
+else:
+    print("Everything else must be false!!!")
+</code></pre>
+</section>
+<section data-auto-animate>
+<pre data-id="code-animation"><code data-line-numbers="3|6,7">
+condition = False
+other_condition = True
+if condition:
+    print("The condition is", condition)
+elif other_condition:
+    print("The other condition is", other_condition)
+else:
+    print("Everything else must be false!!!")
+</code></pre>
+</section>
+<section data-auto-animate>
+<pre data-id="code-animation"><code data-line-numbers="4|2|3|4|9|10">
+condition = False
+other_condition = False
+yet_another_condition = True
+if condition:
+    print("The condition is", condition)
+elif other_condition:
+    print("The other condition is", other_condition)
+elif yet_another_condition:
+    print("The other condition is", other_condition)
+else:
+    print("Everything else must be false!!!")
+</code></pre>
+</section>
 
 
 
