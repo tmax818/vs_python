@@ -1,10 +1,10 @@
-# Python Sequences
+# Python Tuples
 
 <img class="fragment" src="../images/Python-logo.png" width="400" height="400">
 
 
 
-## Sequences
+## Tuples
 
 an enumerated collection of objects in which repetitions are allowed and order matters <!-- .element: class="fragment" data-fragment -->
 

@@ -1,4 +1,4 @@
-# Python Sequences
+# Python Ranges
 
 <img class="fragment" src="../images/Python-logo.png" width="400" height="400">
 
